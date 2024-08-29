@@ -7,4 +7,4 @@
  
 - Object detection/extraction
 
-  Then, objects in the images having spectral and spatial information are detected and extracted for further examination or modelling.
+  Then, objects in the images having spectral and spatial information are detected and extracted for further examination and modelling.
